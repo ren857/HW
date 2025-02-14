@@ -1,4 +1,5 @@
 # HW
+### 目錄結構
 ```
 HardwareProject
 ├─controller
@@ -35,3 +36,4 @@ HardwareProject
    │─DbConnection.java
    │─Tool.java
 ```
+

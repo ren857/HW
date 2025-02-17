@@ -59,5 +59,21 @@ HardwareProject
 
 - #### 登入成功畫面(LoginSuccessUI.java)
 
-  ![image](https://github.com/user-attachments/assets/e69ecb80-0b48-498d-9943-0c2985dc07bf)
+![image](https://github.com/user-attachments/assets/e69ecb80-0b48-498d-9943-0c2985dc07bf)
+
+- #### 購物畫面(AddPorderUI.java)
+
+![image](https://github.com/user-attachments/assets/d82146f8-f189-4385-960c-9c4b04ee12c3)  
+
+- #### 購物車畫面(AddPorderCart.java)
+
+![image](https://github.com/user-attachments/assets/be2b6526-420d-4f77-8a2a-97635cd90a8c)
+
+- #### 結帳畫面(AddPorderCheckout.java)
+
+![image](https://github.com/user-attachments/assets/e03403fe-ab9c-4963-b5a3-5baf0f6802e2)
+ 
+
+
+
 

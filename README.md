@@ -10,7 +10,7 @@ HardwareProject
 │      LoginErrorUI.java
 │      LoginSuccessUI.java
 │      LoginUI.java
-│  ├─mlist
+│  ├─porder
 │      AddPorderCart.java
 │      AddPorderCheckout.java
 │      AddPorderUI.java
@@ -52,4 +52,12 @@ HardwareProject
 ### 下載連結  
 [sql資料庫,jar執行檔](https://github.com/ren857/HW/tree/main/%E4%BD%9C%E6%A5%AD2 "游標顯示")
 
+### 實作說明:  
+- #### 登入畫面 (LoginUI.java)
+ 
+![image](https://github.com/user-attachments/assets/e70e4e2c-68dd-423b-ba80-5994da8e7249)
+
+- #### 登入成功畫面(LoginSuccessUI.java)
+
+  ![image](https://github.com/user-attachments/assets/e69ecb80-0b48-498d-9943-0c2985dc07bf)
 

@@ -43,7 +43,11 @@ HardwareProject
 - #### JDK環境：
 #### 下載並安裝[JDK 11](https://www.oracle.com/java/technologies/downloads/#java11?er=221886 "游標顯示")環境。  
 在 CMD 中執行下列命令以確認安裝版本。
+```plaintext
+<javac -version>
+```
+```plaintext
+<java -version>
+```
 
-javac -version
-java -version
 

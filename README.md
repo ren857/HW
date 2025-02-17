@@ -39,3 +39,11 @@ HardwareProject
 ### 測試環境
 - #### 資料庫環境：
 請安裝 MySQL（使用[ MySQL Community Server](https://dev.mysql.com/downloads/mysql/ "游標顯示") (下載8.0版本)），並匯入提供的 SQL 腳本建立所需的資料表。
+
+- #### JDK環境：
+#### 下載並安裝[JDK 11](https://www.oracle.com/java/technologies/downloads/#java11?er=221886 "游標顯示")環境。  
+在 CMD 中執行下列命令以確認安裝版本。
+
+javac -version
+java -version
+

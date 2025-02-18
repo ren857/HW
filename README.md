@@ -44,10 +44,10 @@ HardwareProject
 #### 下載並安裝[JDK 11](https://www.oracle.com/java/technologies/downloads/#java11?er=221886 "游標顯示")環境。  
 在 CMD 中執行下列命令以確認安裝版本。
 ```plaintext
-<javac -version>
+javac -version
 ```
 ```plaintext
-<java -version>
+java -version
 ```
 ### 下載連結  
 [sql資料庫,jar執行檔](https://github.com/ren857/HW/tree/main/%E4%BD%9C%E6%A5%AD2 "游標顯示")
